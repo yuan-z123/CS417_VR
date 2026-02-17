@@ -21,3 +21,8 @@ MemoryCaptures/
 *.svd
 *.pdb
 .DS_Store
+
+# Unity builds
+*.app
+[Bb]uild/
+[Bb]uilds/
